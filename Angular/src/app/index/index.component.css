@@ -1,0 +1,29 @@
+#search-form-frontend {
+    padding: 160px 300px;
+    text-align: center;
+}
+
+#search-form-frontend input {
+    border-right: 1px solid #979ea4;
+    border-left: 1px solid #979ea4;
+    border-top: 1px solid #979ea4;
+    border-bottom: 1px solid #979ea4;
+}
+
+#search-form-frontend .input-group-addon {
+    background: transparent;
+    border-left: none;
+    border-right: 1px solid #979ea4;
+    border-top: 1px solid #979ea4;
+    border-bottom: 1px solid #979ea4;
+    padding: 12px;
+}
+
+#search-form-frontend[_ngcontent-c1] {
+    padding: 160px 300px;
+    text-align: center;
+}
+
+input[type=button] {
+    margin-top: 15px;
+}

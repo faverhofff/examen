@@ -1,0 +1,157 @@
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csc.exe
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csc.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csc.rsp
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csi.exe
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csi.rsp
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.AppContext.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.Collections.Immutable.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.IO.FileSystem.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\vbc.exe
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\vbc.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\vbc.rsp
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\VBCSCompiler.exe
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\VBCSCompiler.exe.config
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\ApiTarea.dll.config
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\ApiTarea.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\ApiTarea.pdb
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Bson.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.Core.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\Newtonsoft.Json.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Net.Http.Formatting.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.WebHost.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Bson.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.Core.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\Newtonsoft.Json.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Net.Http.Formatting.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.WebHost.xml
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.dll
+c:\users\developer\documents\visual studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csc.exe
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csc.exe.config
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csc.rsp
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csi.exe
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\csi.rsp
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.AppContext.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\vbc.exe
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\vbc.exe.config
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\vbc.rsp
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\VBCSCompiler.exe
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\ApiTarea.dll.config
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\ApiTarea.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\ApiTarea.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Bson.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.Core.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\Newtonsoft.Json.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Net.Http.Formatting.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.WebHost.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Bson.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\MongoDB.Driver.Core.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\Newtonsoft.Json.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Net.Http.Formatting.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.WebHost.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Cors.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.Cors.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\bin\System.Web.Http.Cors.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csprojAssemblyReference.cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csproj.CopyComplete
+D:\ApiTarea\ApiTarea\bin\roslyn\csc.exe
+D:\ApiTarea\ApiTarea\bin\roslyn\csc.exe.config
+D:\ApiTarea\ApiTarea\bin\roslyn\csc.rsp
+D:\ApiTarea\ApiTarea\bin\roslyn\csi.exe
+D:\ApiTarea\ApiTarea\bin\roslyn\csi.rsp
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ApiTarea\ApiTarea\bin\roslyn\System.AppContext.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\System.Collections.Immutable.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\System.IO.FileSystem.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\System.Reflection.Metadata.dll
+D:\ApiTarea\ApiTarea\bin\roslyn\vbc.exe
+D:\ApiTarea\ApiTarea\bin\roslyn\vbc.exe.config
+D:\ApiTarea\ApiTarea\bin\roslyn\vbc.rsp
+D:\ApiTarea\ApiTarea\bin\roslyn\VBCSCompiler.exe
+D:\ApiTarea\ApiTarea\bin\roslyn\VBCSCompiler.exe.config
+D:\ApiTarea\ApiTarea\bin\ApiTarea.dll.config
+D:\ApiTarea\ApiTarea\bin\ApiTarea.dll
+D:\ApiTarea\ApiTarea\bin\ApiTarea.pdb
+D:\ApiTarea\ApiTarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ApiTarea\ApiTarea\bin\MongoDB.Bson.dll
+D:\ApiTarea\ApiTarea\bin\MongoDB.Driver.Core.dll
+D:\ApiTarea\ApiTarea\bin\MongoDB.Driver.dll
+D:\ApiTarea\ApiTarea\bin\Newtonsoft.Json.dll
+D:\ApiTarea\ApiTarea\bin\System.Net.Http.Formatting.dll
+D:\ApiTarea\ApiTarea\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ApiTarea\ApiTarea\bin\System.Web.Cors.dll
+D:\ApiTarea\ApiTarea\bin\System.Web.Http.Cors.dll
+D:\ApiTarea\ApiTarea\bin\System.Web.Http.dll
+D:\ApiTarea\ApiTarea\bin\System.Web.Http.WebHost.dll
+D:\ApiTarea\ApiTarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ApiTarea\ApiTarea\bin\MongoDB.Bson.xml
+D:\ApiTarea\ApiTarea\bin\MongoDB.Driver.xml
+D:\ApiTarea\ApiTarea\bin\MongoDB.Driver.Core.xml
+D:\ApiTarea\ApiTarea\bin\Newtonsoft.Json.xml
+D:\ApiTarea\ApiTarea\bin\System.Net.Http.Formatting.xml
+D:\ApiTarea\ApiTarea\bin\System.Web.Http.xml
+D:\ApiTarea\ApiTarea\bin\System.Web.Http.Cors.xml
+D:\ApiTarea\ApiTarea\bin\System.Web.Http.WebHost.xml
+D:\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csprojAssemblyReference.cache
+D:\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csproj.CoreCompileInputs.cache
+D:\ApiTarea\ApiTarea\obj\Debug\ApiTarea.csproj.CopyComplete
+D:\ApiTarea\ApiTarea\obj\Debug\ApiTarea.dll
+D:\ApiTarea\ApiTarea\obj\Debug\ApiTarea.pdb
